@@ -1,0 +1,17 @@
+name: aoc2021_1
+description: A simple command-line application.
+version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.15.0 <3.0.0'
+
+
+# dependencies:
+#   path: ^1.8.0
+
+dev_dependencies:
+  lints: ^1.0.0
+dependencies: 
+  collection: ^1.15.0
+  flutter_plot: ^0.1.0
