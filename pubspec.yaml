@@ -15,3 +15,4 @@ dev_dependencies:
 dependencies: 
   collection: ^1.15.0
   flutter_plot: ^0.1.0
+  vector_math: ^2.1.1
